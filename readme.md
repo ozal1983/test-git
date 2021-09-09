@@ -2,4 +2,4 @@
 Repositorio prueba 
 #### Actividades GIT
 Ejercicios de git    
-[google](www.google.com)
+![google](www.google.com)
