@@ -2,4 +2,4 @@
 Repositorio prueba 
 #### Actividades GIT
 Ejercicios de git    
-![google](test-git/imagen)
+![log](test-git/imagen.jpg)
